@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+/* .navbar-nav {
+  position: absolute;
+  right: 0;
+  top: 10px;
+} */
+
+
+
+nav, .navbar-brand, .nav-item {
+  padding-top: 10px ;
+  font-size: 2.5rem;
+  /* font-weight: bold; */
+}
+
+.home-visual {
+
+  height: 100vh;
+}
+
+p {
+  font-size: 2.0rem;
+}
+
